@@ -13,7 +13,7 @@ public class Main extends Application {
 	launch(args);
 
 	}
-//test
+//test  3
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		FXMLLoader loader = new FXMLLoader(this.getClass().getResource("/fxml/odc17/Pro.fxml"));
